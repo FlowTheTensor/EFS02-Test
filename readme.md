@@ -1,6 +1,4 @@
-EFS02-Test
-
-Kurzbeschreibung
+### Kurzbeschreibung
 Dieses Repository enthält das EFS02-Testprojekt und dient als Platzhalter für Tests und erste Implementierungen.
 
 Inhalt
